@@ -1,4 +1,3 @@
-# coffee/_posts/2025-07-18-coffeetest.md
 ---
 layout: post
 title: "Test post for coffee"
