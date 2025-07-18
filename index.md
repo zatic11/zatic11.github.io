@@ -16,3 +16,6 @@ My interests may change over time, but right now, I am interested in Retro Handh
 
 So check out my posts below! 	( ´ ω ` )ノﾞ
 Just choose a category!
+
+- [Coffee](/coffee/)
+- [Projects](/projects/)
