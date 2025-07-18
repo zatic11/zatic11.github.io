@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "test log"
-date: 2025-07-18
+title: "Navigation"
 ---
 
 Just started up this page and learning how to use it
