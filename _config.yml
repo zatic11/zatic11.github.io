@@ -10,3 +10,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  3d-prints:
+    output: true
+    permalink: /3d-prints/:path/
