@@ -2,5 +2,8 @@
 layout: post
 title: "Navigation"
 ---
+Check out my posts in the following folders!
 
-Just started up this page and learning how to use it
+- [Coffee](/coffee/)
+- [Projects](/projects/)
+
