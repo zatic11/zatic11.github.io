@@ -3,7 +3,6 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-
 # Project Logs
 All the tinkering and fried boards go here.
 
@@ -13,3 +12,4 @@ All the tinkering and fried boards go here.
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+
