@@ -1,10 +1,11 @@
 # coffee/index.md
 ---
-layout: home
+layout: default
 title: Coffee Logs
+permalink: /coffee/
 ---
-
-coffee, engineers elixir.
+#Coffee Logs
+Coffee, engineers' elixir.
 
 <ul>
   {% for post in site.coffee %}
