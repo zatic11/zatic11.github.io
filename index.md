@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to My Project Blog
+title: Blog
 ---
 
-This is where I talk about projects and tinkerings.
+Keeping track of the fun things I do, and documenting my learning. 
