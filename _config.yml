@@ -6,5 +6,7 @@ theme: minima
 collections:
   coffee:
     output: true
-  electronics:
+    permalink: /coffee/:path/
+  projects:
     output: true
+    permalink: /projects/:path/
