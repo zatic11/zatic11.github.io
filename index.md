@@ -19,3 +19,5 @@ Just choose a category!
 
 - [Coffee](/coffee/)
 - [Projects](/projects/)
+- [3D Prints](/3d-prints/)
+
