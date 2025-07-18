@@ -3,7 +3,6 @@ layout: page
 title: Coffee Logs
 permalink: /coffee/
 ---
-# Coffee Logs
 Coffee, engineers' elixir.
 
 {% assign coffee_posts = site.coffee | sort: 'date' | reverse %}
