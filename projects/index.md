@@ -3,7 +3,6 @@ layout: page
 title: Project Diary
 permalink: /projects/
 ---
-# Project Logs
 All the tinkering and fried boards go here.
 
 {% assign pojects_posts = site.projects | sort: 'date' | reverse %}
