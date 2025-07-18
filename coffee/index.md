@@ -1,4 +1,4 @@
-# coffee/index.md
+
 ---
 layout: default
 title: Coffee Logs
