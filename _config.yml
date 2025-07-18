@@ -2,3 +2,9 @@ title: Coffee, wires and pi
 description: Random interests and Obsessions of zatic11
 author: zatic11
 theme: minima
+
+collections:
+  coffee:
+    output: true
+  electronics:
+    output: true
