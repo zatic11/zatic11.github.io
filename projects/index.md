@@ -1,6 +1,6 @@
-# projects/index.md
+
 ---
-layout: home
+layout: default
 title: Projects
 permalink: /projects/
 ---
