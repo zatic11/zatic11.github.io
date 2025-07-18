@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Coffee Logs
 permalink: /coffee/
 ---
