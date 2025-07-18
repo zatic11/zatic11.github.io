@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 3D-Prints
+title: 3D Prints
 permalink: /3d-prints/
 ---
 3D printing and modelling related
