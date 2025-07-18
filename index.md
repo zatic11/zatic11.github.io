@@ -15,6 +15,7 @@ As I slowly learn to build this blog, I will also document some of my personal p
 My interests may change over time, but right now, I am interested in Retro Handheld devices, Coffee, RC vehicles. 
 
 So check out my posts below! 	( ´ ω ` )ノﾞ
+
 Just choose a category!
 
 - [Coffee](/coffee/)
