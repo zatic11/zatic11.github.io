@@ -1,0 +1,7 @@
+--
+layout: post
+title: "test log'
+date: 2025-07-15
+---
+
+Just started up this page and learning how to use it
