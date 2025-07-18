@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Project Diary
 permalink: /projects/
 ---
 # Project Logs
