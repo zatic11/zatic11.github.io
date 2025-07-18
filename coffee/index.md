@@ -1,14 +1,14 @@
-
 ---
 layout: default
 title: Coffee Logs
 permalink: /coffee/
 ---
-#Coffee Logs
+# Coffee Logs
 Coffee, engineers' elixir.
 
+{% assign coffee_posts = site.coffee | sort: 'date' | reverse %}
 <ul>
-  {% for post in site.coffee %}
+  {% for post in coffee_posts %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
